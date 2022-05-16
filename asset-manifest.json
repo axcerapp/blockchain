@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9933c4db.chunk.css",
-    "main.js": "./static/js/main.862bf175.chunk.js",
-    "main.js.map": "./static/js/main.862bf175.chunk.js.map",
+    "main.js": "./static/js/main.07495ea5.chunk.js",
+    "main.js.map": "./static/js/main.07495ea5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b660d9.js",
     "runtime-main.js.map": "./static/js/runtime-main.a8b660d9.js.map",
     "static/css/2.5ce85852.chunk.css": "./static/css/2.5ce85852.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.935f8c20.chunk.js.LICENSE.txt": "./static/js/2.935f8c20.chunk.js.LICENSE.txt",
     "static/media/style.css": "./static/media/et-line.d59b2385.woff",
     "static/media/binance.9a01e330.png": "./static/media/binance.9a01e330.png",
+    "static/media/clutch.52d4dcb7.jpeg": "./static/media/clutch.52d4dcb7.jpeg",
     "static/media/defi.e536d08b.webp": "./static/media/defi.e536d08b.webp",
     "static/media/digital-identity.b5246646.webp": "./static/media/digital-identity.b5246646.webp",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
@@ -34,6 +35,6 @@
     "static/css/2.5ce85852.chunk.css",
     "static/js/2.935f8c20.chunk.js",
     "static/css/main.9933c4db.chunk.css",
-    "static/js/main.862bf175.chunk.js"
+    "static/js/main.07495ea5.chunk.js"
   ]
 }
