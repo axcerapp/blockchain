@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9933c4db.chunk.css",
-    "main.js": "./static/js/main.07495ea5.chunk.js",
-    "main.js.map": "./static/js/main.07495ea5.chunk.js.map",
+    "main.js": "./static/js/main.966ef880.chunk.js",
+    "main.js.map": "./static/js/main.966ef880.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b660d9.js",
     "runtime-main.js.map": "./static/js/runtime-main.a8b660d9.js.map",
     "static/css/2.5ce85852.chunk.css": "./static/css/2.5ce85852.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/defi.e536d08b.webp": "./static/media/defi.e536d08b.webp",
     "static/media/digital-identity.b5246646.webp": "./static/media/digital-identity.b5246646.webp",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/global.3db33fe4.png": "./static/media/global.3db33fe4.png",
     "static/media/meta-icon.f9efe4f8.png": "./static/media/meta-icon.f9efe4f8.png",
     "static/media/rust.1034c456.png": "./static/media/rust.1034c456.png",
     "static/media/slick-theme.css": "./static/media/slick.c94f7671.ttf",
@@ -35,6 +36,6 @@
     "static/css/2.5ce85852.chunk.css",
     "static/js/2.935f8c20.chunk.js",
     "static/css/main.9933c4db.chunk.css",
-    "static/js/main.07495ea5.chunk.js"
+    "static/js/main.966ef880.chunk.js"
   ]
 }
